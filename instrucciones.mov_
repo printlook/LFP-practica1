@@ -1,0 +1,10 @@
+agregar_stock Equipo30;40;BodegaW
+eliminar_equipo Equipo18;43;BodegaX
+agregar_stock Equipo1;38;BodegaZ
+eliminar_equipo Equipo1;22;BodegaZ
+eliminar_equipo Equipo28;33;BodegaZ
+agregar_stock Equipo5;38;BodegaX
+agregar_stock Equipo6;30;BodegaY
+eliminar_equipo Equipo29;20;BodegaY
+agregar_stock Equipo13;24;BodegaW
+eliminar_equipo Equipo20;13;BodegaY
